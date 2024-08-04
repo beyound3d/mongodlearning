@@ -23,3 +23,9 @@
 - Model configuration- mapping and relationship constrains
 - Dependency Injection Container
 - Pagination
+
+# command
+ ```
+ dotnet run
+ ```
+
